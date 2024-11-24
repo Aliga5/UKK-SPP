@@ -1,7 +1,7 @@
 -- phpMyAdmin SQL Dump
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
---
+-- Kredit ALIGA MULYA RAMLI
 -- Host: localhost
 -- Waktu pembuatan: 24 Nov 2024 pada 05.48
 -- Versi server: 10.4.28-MariaDB
